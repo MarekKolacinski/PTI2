@@ -1,0 +1,7 @@
+﻿  Main.cpp
+C:\Users\PC\source\repos\tablica4x4\tablica4x4\Main.cpp(31,35): error C2664: „void Wprowadz(int [][4])”: nie można dokonać konwersji argumentu 1 z „int” do „int [][4]”
+C:\Users\PC\source\repos\tablica4x4\tablica4x4\Main.cpp(31,34): message : Konwersja z typu całkowitego na typ wskaźnika wymaga operatora reinterpret_cast, rzutowania w stylu języka C lub rzutowania w stylu funkcji
+C:\Users\PC\source\repos\tablica4x4\tablica4x4\Main.cpp(14,6): message : zobacz deklarację „Wprowadz”
+C:\Users\PC\source\repos\tablica4x4\tablica4x4\Main.cpp(54,2): error C2059: błąd składniowy: „return”
+C:\Users\PC\source\repos\tablica4x4\tablica4x4\Main.cpp(55,1): error C2059: błąd składniowy: „}”
+C:\Users\PC\source\repos\tablica4x4\tablica4x4\Main.cpp(55,1): error C2143: błąd składniowy: brakuje „;” przed „}”

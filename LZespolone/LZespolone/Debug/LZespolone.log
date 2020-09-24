@@ -1,0 +1,6 @@
+﻿  LZespolone.cpp
+C:\Users\PC\source\repos\LZespolone\LZespolone\LZespolone.cpp(35,29): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\PC\source\repos\LZespolone\LZespolone\LZespolone.cpp(35,24): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\PC\source\repos\LZespolone\LZespolone\LZespolone.cpp(36,29): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\PC\source\repos\LZespolone\LZespolone\LZespolone.cpp(36,24): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+  LZespolone.vcxproj -> C:\Users\PC\source\repos\LZespolone\Debug\LZespolone.exe

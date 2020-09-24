@@ -1,0 +1,3 @@
+﻿  matematyka.cpp
+C:\Users\PC\source\repos\Kalkulator\Kalkulator\matematyka.cpp(23): warning C4715: "div”: niewszystkie ścieżki kodu zwracają wartość
+  Kalkulator.vcxproj -> C:\Users\PC\source\repos\Kalkulator\Debug\Kalkulator.exe

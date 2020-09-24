@@ -1,0 +1,16 @@
+Wed Sep 23 19:24:50 2020
+Wykonano opercje 15 div 17
+Wynik: 0.882353
+
+Wed Sep 23 19:26:00 2020
+Wykonano opercje 15 sub 17
+Wynik: -2.000000
+
+Wed Sep 23 19:38:44 2020
+Wykonano opercje 15 sub 17
+Wynik: -2.000000
+
+Wed Sep 23 19:40:38 2020
+Wykonano opercje 15 div 0
+Wynik: -nan(ind)
+
